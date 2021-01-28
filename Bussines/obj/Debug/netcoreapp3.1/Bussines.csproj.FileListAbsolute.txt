@@ -1,0 +1,14 @@
+C:\Users\uzayk\source\repos\JWT.Project\Bussines\obj\Debug\netcoreapp3.1\Bussines.csprojAssemblyReference.cache
+C:\Users\uzayk\source\repos\JWT.Project\Bussines\obj\Debug\netcoreapp3.1\Bussines.AssemblyInfoInputs.cache
+C:\Users\uzayk\source\repos\JWT.Project\Bussines\obj\Debug\netcoreapp3.1\Bussines.AssemblyInfo.cs
+C:\Users\uzayk\source\repos\JWT.Project\Bussines\obj\Debug\netcoreapp3.1\Bussines.csproj.CoreCompileInputs.cache
+C:\Users\uzayk\source\repos\JWT.Project\Bussines\bin\Debug\netcoreapp3.1\Bussines.deps.json
+C:\Users\uzayk\source\repos\JWT.Project\Bussines\bin\Debug\netcoreapp3.1\Bussines.dll
+C:\Users\uzayk\source\repos\JWT.Project\Bussines\bin\Debug\netcoreapp3.1\Bussines.pdb
+C:\Users\uzayk\source\repos\JWT.Project\Bussines\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\uzayk\source\repos\JWT.Project\Bussines\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\uzayk\source\repos\JWT.Project\Bussines\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\uzayk\source\repos\JWT.Project\Bussines\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\uzayk\source\repos\JWT.Project\Bussines\obj\Debug\netcoreapp3.1\Bussines.csproj.CopyComplete
+C:\Users\uzayk\source\repos\JWT.Project\Bussines\obj\Debug\netcoreapp3.1\Bussines.dll
+C:\Users\uzayk\source\repos\JWT.Project\Bussines\obj\Debug\netcoreapp3.1\Bussines.pdb
